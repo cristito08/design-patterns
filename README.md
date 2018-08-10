@@ -4,7 +4,7 @@ In this project I applied the Prototype design pattern to an easy example.
 ## Getting Started
 Open a command prompt and clone this repository in your computer:
 
-```git clone ...```
+```git clone https://github.com/cristito08/design-patterns.git```
 
 
 ## Prerequisites

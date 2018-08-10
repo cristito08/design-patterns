@@ -12,10 +12,10 @@ You need to have installed node.js 8.11.3, and a code editor.
 
 
 ## Installing
+Open the project folder in your code editor, and istall the project dependencies typing:
+```npm i``` 
 
-
-## Test It
-Open the project folder in your code editor, then open your terminal and type:
+Then to run the app in the browser type: 
 
 ```npm start```
 

@@ -1,0 +1,31 @@
+html,body{
+    padding: 20px;
+  }
+  h3{
+    margin : 40px 0 20px;
+  }
+  hr{
+    border-color : transparent;
+    margin : 30px;
+  }
+  .button{
+    font-size: 16px;
+    background : rgb(243, 241, 241);
+    padding: 10px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+
+  .button:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .go-button{
+    background : rgb(134, 224, 50);
+    color : white;
+  }
+  
+  .cancel-button{
+    background : red;
+    color : white;
+  }

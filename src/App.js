@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import PrototypeSample from './assets/components/prototype/prototype.js'
+import Button from './assets/components/prototype/button.js'
+import GoButton from './assets/components/prototype/go-button.js'
+import CancelButton from './assets/components/prototype/cancel-button.js'
 import './App.css';
 
 class App extends Component {
@@ -10,7 +12,11 @@ class App extends Component {
   render() {
     return (
       <div>
-        <PrototypeSample></PrototypeSample>
+        <Button> Click Me </Button>
+        <hr/>
+        <GoButton> Go! </GoButton>
+        <hr/>
+        <CancelButton> Cancel </CancelButton>  
       </div>
     );
   }
